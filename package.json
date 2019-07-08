@@ -1,6 +1,6 @@
 {
   "name": "@alexlafroscia/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Alex LaFroscia's Personal ESLint Baseline Config",
   "main": "index.js",
   "repository": "https://github.com/alexlafroscia/eslint-config",
