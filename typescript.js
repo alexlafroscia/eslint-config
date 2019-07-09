@@ -11,6 +11,7 @@ module.exports = {
   extends: "./base/index",
   rules: {
     // Disabled because TypeScript handles this already
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "no-undef": "off"
   }
 };
